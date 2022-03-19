@@ -1,0 +1,7 @@
+{
+  "name": "Learning to Create Vue App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
